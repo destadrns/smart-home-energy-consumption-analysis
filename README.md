@@ -25,6 +25,7 @@ Proyek ini bertujuan untuk menganalisis pola konsumsi energi listrik rumah tangg
 3.  **Download Dataset**
     - Karena ukuran file > 100MB, dataset tidak disertakan di repo ini.
     - Unduh dataset **"Smart Home Dataset with Weather Information"** dari Kaggle.
+      Link : https://www.kaggle.com/datasets/jamshaid1202/smart-home-energy-consumption-and-weather-data
     - Simpan file `Smart Home Dataset.csv` ke dalam folder `data/`.
 4.  **Jalankan Notebook**
     Buka `Final_Project_Smart_Home.ipynb` di VS Code atau Jupyter Notebook.
