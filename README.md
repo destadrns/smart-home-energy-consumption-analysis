@@ -11,8 +11,6 @@ Proyek ini bertujuan untuk menganalisis pola konsumsi energi listrik rumah tangg
 
 ## 📁 Struktur File
 - `Final_Project_Smart_Home.ipynb`: Notebook utama berisi seluruh pipeline data mining.
-- `generated_notebook.py`: Script generator notebook (untuk reproducibility).
-- `video_script.md`: Naskah presentasi video.
 
 ## 🚀 Cara Menjalankan
 1.  **Clone Repository**
