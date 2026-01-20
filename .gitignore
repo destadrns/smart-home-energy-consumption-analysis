@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Dataset (Large Files > 100MB)
+data/Smart Home Dataset.csv
+
+# VS Code
+.vscode/
