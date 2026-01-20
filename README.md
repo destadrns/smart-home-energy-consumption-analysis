@@ -29,9 +29,6 @@ Proyek ini bertujuan untuk menganalisis pola konsumsi energi listrik rumah tangg
 4.  **Jalankan Notebook**
     Buka `Final_Project_Smart_Home.ipynb` di VS Code atau Jupyter Notebook.
 
-## 📊 Hasil Analisis
-(Tambahkan screenshot grafik EDA atau hasil prediksi di sini jika diinginkan)
-
 ---
-**Nama:** [Nama Anda]  
-**NIM:** [NIM Anda]
+**Nama:** Desta Adriyan Saputra  
+**NIM:** 23.11.5731
