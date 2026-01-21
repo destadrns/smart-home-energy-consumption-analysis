@@ -27,7 +27,3 @@ Proyek ini bertujuan untuk menganalisis pola konsumsi energi listrik rumah tangg
     - Simpan file `Smart Home Dataset.csv` ke dalam folder `data/`.
 4.  **Jalankan Notebook**
     Buka `Final_Project_Smart_Home.ipynb` di VS Code atau Jupyter Notebook.
-
----
-**Nama:** Desta Adriyan Saputra  
-**NIM:** 23.11.5731
